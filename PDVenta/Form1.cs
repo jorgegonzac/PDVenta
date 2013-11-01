@@ -73,47 +73,47 @@ namespace PDVenta
 
         private void btnCompras_Click(object sender, EventArgs e)
         {
-            admForm.Hide();
-            almForm.Hide();
-            venForm.Hide();
-            finForm.Hide();
-            comForm.Show();
+            admForm.Hide(); btnAdministracion.Image = Properties.Resources.AdministracionInactivo;
+            almForm.Hide(); btnAlmacen.Image = Properties.Resources.AlmacenInactivo;
+            venForm.Hide(); btnVentas.Image = Properties.Resources.VentasInactivo;
+            finForm.Hide(); btnFinanzas.Image = Properties.Resources.FinanzasInactivo;
+            comForm.Show(); btnCompras.Image = Properties.Resources.ComprasActivo;
         }
 
         private void btnVentas_Click(object sender, EventArgs e)
         {
-            admForm.Hide();
-            almForm.Hide();
-            comForm.Hide();
-            finForm.Hide();
-            venForm.Show();
+            admForm.Hide(); btnAdministracion.Image = Properties.Resources.AdministracionInactivo;
+            almForm.Hide(); btnAlmacen.Image = Properties.Resources.AlmacenInactivo;
+            comForm.Hide(); btnCompras.Image = Properties.Resources.ComprasInactivo;
+            finForm.Hide(); btnFinanzas.Image = Properties.Resources.FinanzasInactivo;
+            venForm.Show(); btnVentas.Image = Properties.Resources.VentasActivo;
         }
 
         private void btnAdministracion_Click(object sender, EventArgs e)
         {
-            almForm.Hide();
-            comForm.Hide();
-            venForm.Hide();
-            finForm.Hide();
-            admForm.Show();
+            venForm.Hide(); btnVentas.Image = Properties.Resources.VentasInactivo;
+            almForm.Hide(); btnAlmacen.Image = Properties.Resources.AlmacenInactivo;
+            comForm.Hide(); btnCompras.Image = Properties.Resources.ComprasInactivo;
+            finForm.Hide(); btnFinanzas.Image = Properties.Resources.FinanzasInactivo;
+            admForm.Show(); btnAdministracion.Image = Properties.Resources.AdministracionActivo;
         }
 
         private void btnFinanzas_Click(object sender, EventArgs e)
         {
-            admForm.Hide();
-            almForm.Hide();
-            comForm.Hide();
-            venForm.Hide();
-            finForm.Show();
+            admForm.Hide(); btnAdministracion.Image = Properties.Resources.AdministracionInactivo;
+            almForm.Hide(); btnAlmacen.Image = Properties.Resources.AlmacenInactivo;
+            comForm.Hide(); btnCompras.Image = Properties.Resources.ComprasInactivo;
+            venForm.Hide(); btnVentas.Image = Properties.Resources.VentasInactivo;
+            finForm.Show(); btnFinanzas.Image = Properties.Resources.FinanzasActivo;
         }
 
         private void btnAlmacen_Click(object sender, EventArgs e)
         {
-            admForm.Hide();
-            comForm.Hide();
-            venForm.Hide();
-            finForm.Hide();
-            almForm.Show();
+            admForm.Hide(); btnAdministracion.Image = Properties.Resources.AdministracionInactivo;
+            comForm.Hide(); btnCompras.Image = Properties.Resources.ComprasInactivo;
+            finForm.Hide(); btnFinanzas.Image = Properties.Resources.FinanzasInactivo;
+            venForm.Hide(); btnVentas.Image = Properties.Resources.VentasInactivo;
+            almForm.Show(); btnAlmacen.Image = Properties.Resources.AlmacenActivo;
         }
     }
 }

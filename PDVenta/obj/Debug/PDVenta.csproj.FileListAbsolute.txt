@@ -39,3 +39,5 @@ C:\Users\Gooseheaded\Documents\GitHub\PDVenta\PDVenta\obj\Debug\PDVenta.LoginFor
 C:\Users\Gooseheaded\Documents\GitHub\PDVenta\PDVenta\obj\Debug\PDVenta.PasswordRecoveryForm.resources
 C:\Users\Gooseheaded\Documents\GitHub\PDVenta\PDVenta\obj\Debug\PDVenta.Properties.Resources.resources
 C:\Users\Gooseheaded\Documents\GitHub\PDVenta\PDVenta\obj\Debug\PDVenta.csproj.GenerateResource.Cache
+C:\Users\Gooseheaded\Documents\GitHub\PDVenta\PDVenta\obj\Debug\PDVenta.AdministracionForm.resources
+C:\Users\Gooseheaded\Documents\GitHub\PDVenta\PDVenta\obj\Debug\PDVenta.AlmacenForm.resources

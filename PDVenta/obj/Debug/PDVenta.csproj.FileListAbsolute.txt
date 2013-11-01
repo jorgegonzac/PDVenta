@@ -41,3 +41,4 @@ C:\Users\Gooseheaded\Documents\GitHub\PDVenta\PDVenta\obj\Debug\PDVenta.Properti
 C:\Users\Gooseheaded\Documents\GitHub\PDVenta\PDVenta\obj\Debug\PDVenta.csproj.GenerateResource.Cache
 C:\Users\Gooseheaded\Documents\GitHub\PDVenta\PDVenta\obj\Debug\PDVenta.AdministracionForm.resources
 C:\Users\Gooseheaded\Documents\GitHub\PDVenta\PDVenta\obj\Debug\PDVenta.AlmacenForm.resources
+C:\Users\Gooseheaded\Documents\GitHub\PDVenta\PDVenta\obj\Debug\PDVenta.VentasForm.resources

@@ -36,7 +36,7 @@ namespace PDVenta
         {
             //FormMainload
             //HOLI jorge
-            //Holi edu
+            //Holi edu TONTOs
         }
     }
 }

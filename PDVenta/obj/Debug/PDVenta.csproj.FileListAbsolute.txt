@@ -25,3 +25,6 @@ C:\Users\Jorge\Documents\PDVenta\PDVenta\obj\Debug\PDVenta.pdb
 C:\Users\Jorge\Dropbox\semestre 5\Bases de datos\Proyecto\PDVenta\PDVenta\bin\Debug\PDVenta.exe.config
 C:\Users\Jorge\Dropbox\semestre 5\Bases de datos\Proyecto\PDVenta\PDVenta\obj\Debug\PDVenta.exe
 C:\Users\Jorge\Dropbox\semestre 5\Bases de datos\Proyecto\PDVenta\PDVenta\obj\Debug\PDVenta.pdb
+C:\Users\Eduardo\Documents\GitHub\PDVenta\PDVenta\bin\Debug\PDVenta.exe.config
+C:\Users\Eduardo\Documents\GitHub\PDVenta\PDVenta\obj\Debug\PDVenta.exe
+C:\Users\Eduardo\Documents\GitHub\PDVenta\PDVenta\obj\Debug\PDVenta.pdb

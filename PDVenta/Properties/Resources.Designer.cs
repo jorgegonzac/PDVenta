@@ -73,9 +73,29 @@ namespace PDVenta.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap AdministracionInactivo {
+            get {
+                object obj = ResourceManager.GetObject("AdministracionInactivo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap AlmacenActivo {
             get {
                 object obj = ResourceManager.GetObject("AlmacenActivo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap AlmacenInactivo {
+            get {
+                object obj = ResourceManager.GetObject("AlmacenInactivo", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,6 +133,16 @@ namespace PDVenta.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ComprasInactivo {
+            get {
+                object obj = ResourceManager.GetObject("ComprasInactivo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap FinanzasActivo {
             get {
                 object obj = ResourceManager.GetObject("FinanzasActivo", resourceCulture);
@@ -123,9 +153,29 @@ namespace PDVenta.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap FinanzasInactivo {
+            get {
+                object obj = ResourceManager.GetObject("FinanzasInactivo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap VentasActivo {
             get {
                 object obj = ResourceManager.GetObject("VentasActivo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap VentasInactivo {
+            get {
+                object obj = ResourceManager.GetObject("VentasInactivo", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

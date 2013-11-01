@@ -130,13 +130,28 @@
   <data name="FinanzasActivo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\FinanzasActivo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="button-check_green" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button-check_green.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="AdministracionActivo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\AdministracionActivo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="AlmacenActivo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\AlmacenActivo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="button-check_green" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\button-check_green.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="AdministracionInactivo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\AdministracionInactivo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AlmacenInactivo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\AlmacenInactivo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ComprasInactivo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ComprasInactivo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FinanzasInactivo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FinanzasInactivo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="VentasInactivo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\VentasInactivo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

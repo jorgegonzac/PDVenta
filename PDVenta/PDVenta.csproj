@@ -94,6 +94,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AdministracionForm.resx">
+      <DependentUpon>AdministracionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlmacenForm.resx">
+      <DependentUpon>AlmacenForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -142,7 +148,17 @@
     <None Include="Resources\AlmacenActivo.png" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Resources\AdministracionInactivo.png" />
+    <None Include="Resources\VentasInactivo1.png" />
+    <None Include="Resources\AdministracionInactivo1.png" />
+    <None Include="Resources\AlmacenInactivo1.png" />
+    <Content Include="Resources\ComprasInactivo.png" />
+    <None Include="Resources\ComprasInactivo1.png" />
+    <Content Include="Resources\FinanzasInactivo.png" />
+    <None Include="Resources\FinanzasInactivo1.png" />
+    <Content Include="Resources\VentasInactivo.png" />
     <None Include="Resources\button-check_green.png" />
+    <Content Include="Resources\AlmacenInactivo.png" />
     <Content Include="Resources\check_mark_green.png" />
     <None Include="Resources\check_mark_green1.png" />
   </ItemGroup>

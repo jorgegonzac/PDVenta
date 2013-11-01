@@ -28,3 +28,14 @@ C:\Users\Jorge\Dropbox\semestre 5\Bases de datos\Proyecto\PDVenta\PDVenta\obj\De
 C:\Users\Eduardo\Documents\GitHub\PDVenta\PDVenta\bin\Debug\PDVenta.exe.config
 C:\Users\Eduardo\Documents\GitHub\PDVenta\PDVenta\obj\Debug\PDVenta.exe
 C:\Users\Eduardo\Documents\GitHub\PDVenta\PDVenta\obj\Debug\PDVenta.pdb
+C:\Users\Gooseheaded\Documents\GitHub\PDVenta\PDVenta\bin\Debug\PDVenta.exe.config
+C:\Users\Gooseheaded\Documents\GitHub\PDVenta\PDVenta\obj\Debug\PDVenta.exe
+C:\Users\Gooseheaded\Documents\GitHub\PDVenta\PDVenta\obj\Debug\PDVenta.pdb
+C:\Users\Gooseheaded\Documents\GitHub\PDVenta\PDVenta\bin\Debug\PDVenta.exe
+C:\Users\Gooseheaded\Documents\GitHub\PDVenta\PDVenta\bin\Debug\PDVenta.pdb
+C:\Users\Gooseheaded\Documents\GitHub\PDVenta\PDVenta\obj\Debug\PDVenta.csprojResolveAssemblyReference.cache
+C:\Users\Gooseheaded\Documents\GitHub\PDVenta\PDVenta\obj\Debug\PDVenta.FormMain.resources
+C:\Users\Gooseheaded\Documents\GitHub\PDVenta\PDVenta\obj\Debug\PDVenta.LoginForm.resources
+C:\Users\Gooseheaded\Documents\GitHub\PDVenta\PDVenta\obj\Debug\PDVenta.PasswordRecoveryForm.resources
+C:\Users\Gooseheaded\Documents\GitHub\PDVenta\PDVenta\obj\Debug\PDVenta.Properties.Resources.resources
+C:\Users\Gooseheaded\Documents\GitHub\PDVenta\PDVenta\obj\Debug\PDVenta.csproj.GenerateResource.Cache

@@ -22,5 +22,12 @@ namespace PDVenta
             PasswordRecoveryForm newPassForm = new PasswordRecoveryForm();
             newPassForm.Show();
         }
+
+        private void btnIngresar_Click(object sender, EventArgs e)
+        {
+            FormMain main = new FormMain();
+            main.Show();
+            this.Hide();
+        }
     }
 }
